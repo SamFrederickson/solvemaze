@@ -1,7 +1,5 @@
 //Samuel Frederickson
 //9/29/2019
-//CS-121
-//stack.cpp
 
 #include <iostream>
 #include "Stack.h"
