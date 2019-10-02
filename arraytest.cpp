@@ -58,6 +58,8 @@ int main()
         {
            cout<< endl << "Maze does not have a solution"<< endl;
            break;
+           delete [] maze;
+           delete [] visited;
            return 0;
         }
         else
