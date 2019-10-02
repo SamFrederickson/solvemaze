@@ -8,3 +8,4 @@ Character List:
 - '#' : Represents walls of the maze, places you can not travel to
 
 Maze file can not be more than 99 by 99.
+Examples of maze text files and their final outputs will be displayed.
