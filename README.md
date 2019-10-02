@@ -10,3 +10,8 @@ Character List:
 
 Maze file can not be more than 99 by 99.
 Examples of maze text files and their final outputs will be displayed.
+
+Main File is arraytest.cpp
+When compiling, must include LinkedList.cpp stack.cpp
+ex: 
+g++ arraytest.cpp LinkedList.cpp stack.cpp
