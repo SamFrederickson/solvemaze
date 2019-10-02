@@ -13,5 +13,9 @@ Examples of maze text files and their final outputs will be displayed.
 
 Main File is arraytest.cpp
 When compiling, must include LinkedList.cpp stack.cpp
+
 ex: 
+
 g++ arraytest.cpp LinkedList.cpp stack.cpp
+
+input text file into  arraytest.cpp in the first part of the readfile() function.
