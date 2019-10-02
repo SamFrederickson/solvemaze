@@ -77,7 +77,8 @@ int main()
         }
         cout<< endl;
     }
-    
+    delete [] maze;
+    delete [] visited;
     return 0;
 }
 char **readfile()
