@@ -1,8 +1,6 @@
 /*
 Samuel Frederickson
 9/24/2019
-Program 2
-CS-121
 */
 #include <iostream>
 #include <fstream>
