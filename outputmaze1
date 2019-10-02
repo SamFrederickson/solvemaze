@@ -1,0 +1,24 @@
+Script started on Tue 01 Oct 2019 02:24:49 PM PDT
+[?1034hbash-4.2$ exit./a.outg++ arraytest.cpp LinkedList.cpp stack.cpp
+bash-4.2$ ./a.out
+11 by 11
+
+Maze has a start and an end!
+
+Starting spot is: 0, 0
+Maze does not have a solution
+S#.#^<>##.G
+v>##<^#..#.
+v#^>#^#....
+v>>##<^#...
+<v#^>>>>###
+#v>>#<<v#..
+<v#v>#v#^#.
+v####<v<^>#
+v>###v##<<^
+v#<<<v####^
+###v<<>>>>>
+bash-4.2$ exit
+exit
+
+Script done on Tue 01 Oct 2019 02:24:59 PM PDT
