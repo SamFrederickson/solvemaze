@@ -1,6 +1,7 @@
 # solvemaze
 Maze program in C++ which takes a text file with the dimensions (max 99 by 99) and solves the maze showing you the paths taken.
 Maze input file must be accurate to the size and contain only certain characters representing parts of the maze. Solution made my using Stacks, Linked Lists, and other dynamic memory techniques.
+
 Character List:
 - 'G' : Goal of the maze
 - '.' : Paths of the maze which you can travel to
